@@ -24,7 +24,8 @@ yarn run compile
 
 ### Testnet Deployed Contracts
 
-| Name | Address |
-| :--- | :--- |
-| Launchpad Factory | 0x0913605127e0b05e1E6cBc2c03685D9495985baE |
-| Crowdsale | 0x2A858636D31e5d6bFBC211c9285ec6c8b9cD87DE |
+| Name | Address | Reefscan Link |
+| :--- | :--- | :--- |
+| Launchpad Factory | 0x0913605127e0b05e1E6cBc2c03685D9495985baE | [Reefscan Testnet](https://testnet.reefscan.com/contract/0x0913605127e0b05e1E6cBc2c03685D9495985baE) |
+| Crowdsale | 0x2A858636D31e5d6bFBC211c9285ec6c8b9cD87DE | [Reefscan Testnet](https://testnet.reefscan.com/contract/0x2A858636D31e5d6bFBC211c9285ec6c8b9cD87DE) |
+
