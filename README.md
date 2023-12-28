@@ -5,7 +5,7 @@
 - Clone Project Codebase
 
 ```
-git clone https://github.com/cryption-network/reef-crowdsale-contract.git
+git clone https://github.com/anukulpandey/reef-crowdsale-contracts
 ```
 
 Add a .env file in root directory. Duplicate the contents of `.env.example` file present in the same directory and update relevant fields.
@@ -22,9 +22,9 @@ yarn
 yarn run compile
 ```
 
-### Mainnet Deployed Contracts
+### Testnet Deployed Contracts
 
 | Name | Address |
 | :--- | :--- |
-| Launchpad Factory | 0xC58B97d8850f72A812BBdECA7Dd0672Ce406DAd4 |
-| Crowdsale | 0xb0F6fF9478f73402262Ec9CF4B77fF47c3358C33 |
+| Launchpad Factory | 0x0913605127e0b05e1E6cBc2c03685D9495985baE |
+| Crowdsale | 0x2A858636D31e5d6bFBC211c9285ec6c8b9cD87DE |
